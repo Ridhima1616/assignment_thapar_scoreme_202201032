@@ -36,3 +36,5 @@ graph = [
     []
 ]
 print(longest_path(graph))
+
+pytest test_main.py
