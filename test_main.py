@@ -34,7 +34,5 @@ def test_longest_path():
     ]
     assert longest_path(graph4) == 3
 
-    print("All test cases pass")
-
 if __name__ == "__main__":
     pytest.main()
